@@ -1,0 +1,31 @@
+body{
+    font-family:cursive;
+    background-color:beige;
+}
+p{
+    color: brown;
+}
+li{
+    font-size:13px;
+}
+.destaque{
+    background-color: aquamarine;
+    font-weight: bold;
+}
+.texto{
+    color:blueviolet;
+    font-size: 22px;
+}
+#principal{
+    color: red;
+    font-size: 50px;
+}
+p{
+    color: orange;
+}
+.destaque{
+    color: blue;
+}
+
+
+    
